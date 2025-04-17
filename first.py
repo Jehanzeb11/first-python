@@ -56,3 +56,38 @@ abc = 'hello!'
 
 
 # print("Hello") if abc == "hello!" else print("False")
+
+# a = 6
+# b = False
+# c = True
+
+# print(a, b, c)
+# print(a and b and c)
+
+# if a and b and c:
+#     print("True")
+# else:
+#     print("False")
+
+# if a or b or c:
+#     print("True")
+# else:
+#     print("False")
+
+# if not a:
+#     print("True")
+# else:
+#     print("False")
+
+# if not a and (not b or not c):
+#     print("True")
+# else:
+#     print("False")
+
+# if a >= 18 < 65:
+#     print("True")
+# else:
+#     print("False")
+
+# for num in range(1, 40, 2):
+#     print(num)
