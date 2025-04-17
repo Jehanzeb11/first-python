@@ -38,3 +38,21 @@ abc = 'hello!'
 # print(abc.isupper())
 # print(abc.isspace())
 # print(abc.count('l'))
+
+# a = input("Enter your age: ")
+# print(type(a))
+# print(int(a))
+
+# if abc == 'hello!':
+#     print("True")
+
+# elif abc == 'hello':
+#     print("True Maybe")
+
+# else:
+#     print("False")
+
+# print("HEHE")
+
+
+# print("Hello") if abc == "hello!" else print("False")
