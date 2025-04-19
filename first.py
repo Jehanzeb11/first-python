@@ -91,3 +91,64 @@ abc = 'hello!'
 
 # for num in range(1, 40, 2):
 #     print(num)
+
+
+# for num in range(5):
+#     for num2 in range(3):
+#         print(f"({num} {num2})")
+
+# for x in "Jehanzeb":
+#     print(x)
+
+# for x in [1,2,3]:
+#     print(x)
+
+# number = 100
+# while number > 0:
+#     number //= 2
+#     print(number)
+
+# command = ""
+
+# while command.lower() != "quit":
+#     command = input(">")
+#     print(command)
+
+
+# nums = 0
+
+# for i in range(1,10):
+#     if i % 2 == 0:
+#         print(f"We have {i} even numbers")
+#         nums += 1
+# print(f"We have total {nums} even numbers")    
+
+
+# def myFun (name):
+#     return f"Hello {name}"
+
+
+# nn =  myFun("Jehanzeb")
+# print(nn)
+
+# num = 0
+
+# def inc(incBy = 5):
+    
+#     return num + incBy
+
+# nn = inc(10)
+
+# print(nn)
+
+
+def multiply(*numbers):
+    total = 1
+    for i in numbers:
+        print(i)
+        total = total * i
+
+    return total
+
+
+print(multiply(2, 3,4))
