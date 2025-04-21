@@ -1,4 +1,21 @@
-abc = 'hello!'
+# import os
+# import pyttsx3
+# import math
+# engine = pyttsx3.init()
+# engine.say("Hello World!")
+# engine.runAndWait()
+
+# print(math.pi)
+
+# dir_path = 'E:\my-learn\python'
+
+# os.mkdir("E:\my-learn\python\hew")
+
+# contents = os.listdir(dir_path)
+
+# print(contents)
+
+# abc = "hello!"
 
 # v = len(abc)
 # print(v)
@@ -121,7 +138,7 @@ abc = 'hello!'
 #     if i % 2 == 0:
 #         print(f"We have {i} even numbers")
 #         nums += 1
-# print(f"We have total {nums} even numbers")    
+# print(f"We have total {nums} even numbers")
 
 
 # def myFun (name):
@@ -134,7 +151,7 @@ abc = 'hello!'
 # num = 0
 
 # def inc(incBy = 5):
-    
+
 #     return num + incBy
 
 # nn = inc(10)
@@ -142,13 +159,13 @@ abc = 'hello!'
 # print(nn)
 
 
-def multiply(*numbers):
-    total = 1
-    for i in numbers:
-        print(i)
-        total = total * i
+# def multiply(*numbers):
+#     total = 1
+#     for i in numbers:
+#         print(i)
+#         total = total * i
 
-    return total
+#     return total
 
 
-print(multiply(2, 3,4))
+# print(multiply(2, 3,4))
